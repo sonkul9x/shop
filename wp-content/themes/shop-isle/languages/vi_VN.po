@@ -1,0 +1,1488 @@
+# Copyright (C) 2017 Themeisle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ShopIsle PRO 2.2.11\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/shop-isle-pro/issues\n"
+"POT-Creation-Date: 2017-04-07 15:00:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-04-11 10:06+0700\n"
+"Last-Translator: \n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;"
+"esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: vi\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28 inc/customizer/features/feature-404-controls.php:32
+msgid "Error 404"
+msgstr "404, hệ thống không tìm thấy yêu cầu của bạn"
+
+#: 404.php:45 inc/customizer/features/feature-404-controls.php:72
+msgid "Back to home page"
+msgstr "Về trang chủ"
+
+#: archive.php:96 home.php:125
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:77
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:49
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:56
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:63
+#: inc/functions/setup.php:347 inc/functions/setup.php:354 inc/functions/setup.php:361
+#: inc/sections/shop_isle_big_title_section.php:22
+#: inc/sections/shop_isle_slider_section.php:27 inc/sections/shop_isle_slider_section.php:34
+#: inc/sections/shop_isle_slider_section.php:41 index.php:129 template-blog.php:125
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: archive.php:108 home.php:137 index.php:141 template-blog.php:137
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"\"meta-nav\"\">«</span> Bài viết cũ hơn"
+
+#: archive.php:109 home.php:138 index.php:142 template-blog.php:138
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Cài đặt plugins cần thiết"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật Plugin: %s"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Có lỗi với plugin API."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Quay trở lại trang plugin cần thiết"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Về trang quản trị"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Mở rộng kích hoạt thành công."
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin sau đã được kích hoạt thành công:"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có thay đổi gì. Plugin %1$s đã được kích hoạt."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+"Plugin không kích hoạt. Một phiên bản cao hơn của %s là cần thiết cho theme này. Vui lòng "
+"cập nhật plugin."
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Tắt thông báo"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều yêu cầu hoặc đề nghị bổ sung để cài đặt, cập nhật hoặc kích hoạt."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ Admin để được hỗ trợ."
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với theme của bạn."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did "
+"not work."
+msgstr ""
+"Gói plugin từ xa không chứa thư mục với cấu trúc mong muốn và đổi tên không hoạt động."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+"Hãy liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin của họ theo hướng dẫn của "
+"WordPress."
+
+#: class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in "
+"a folder."
+msgstr ""
+"Các gói Plugin từ xa bao gồm nhiều hơn một tập tin, nhưng các tập tin không được đóng gói "
+"trong một thư mục."
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Khuyến nghị"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Kho WordPress"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn ngoài"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đóng gói trước"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Cài đặt nhưng chưa kích hoạt"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Yêu cầu cập nhật không tồn tại"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Khuyến nghị cập nhật"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Cài đặt phiên bản:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Phiên bản yêu cầu tối thiểu:"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Gói mở rộng"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Loại"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Nâng cấp tin nhắn từ các tác giả plugin:"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hoạt động."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào được cài đặt lúc này."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào được cập nhật lúc này."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin được lựa chọn để được kích hoạt. Không có hành động."
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin có sẵn để được kích hoạt tại thời điểm này."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt Plugin thất bại."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s bị lỗi."
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một thời gian đối với "
+"một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt thành công."
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Xem chi tiết"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã được hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+"Quá trình cài đặt sẽ bắt đầu. Quá trình này có thể mất một thời gian trên một số máy chủ, "
+"vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả các cài đặt đã được hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: comments.php:36 comments.php:54
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:37 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Bình luận cũ hơn"
+
+#: comments.php:38 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Nhận xét mới hơn &rarr;"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Nhận xét đã đóng."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy gì"
+
+#. translators: 1: link to new post page
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng đăng sản phẩm đầu tiên? <a href=\"%s\">Bắt đầu tại đây</a>."
+
+#: content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số "
+"từ khóa khác nhau."
+
+#: content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+"Dường như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể "
+"giúp đỡ."
+
+#: header.php:33
+msgid "Loading..."
+msgstr "Đang tải ..."
+
+#: home.php:31 inc/customizer/features/feature-blog-header-controls.php:16
+msgid "Blog"
+msgstr "Bài viết"
+
+#: inc/customizer/class/class-shop-isle-pro-palette.php:60
+#: inc/customizer/class/class-shop-isle-pro-palette.php:69
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer/class/class-shopisle-aboutus-page-instructions.php:18
+msgid ""
+"To customize the About us Page you need to first select the template \"About us page\" for "
+"the page you want to use for this purpose. Then open that page in the browser and press "
+"\"Customize\" in the top bar."
+msgstr ""
+"Để tùy chỉnh các giới thiệu về chúng tôi trang bạn cần phải trước tiên chọn mẫu \"About cho "
+"chúng tôi page\" cho trang mà bạn muốn sử dụng cho mục đích này. Sau đó mở trang đó trong "
+"trình duyệt và nhấn \"Customize\" ở trên thanh trên cùng."
+
+#. translators: 1: Link to documentation page. 2: 'doc'
+#. translators: 1: Link to documentation
+#. translators: 1: Link to documentation page. 2: 'doc'
+#: inc/customizer/class/class-shopisle-aboutus-page-instructions.php:20
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:123
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:123
+msgid "Need further informations? Check this %1$s"
+msgstr "Cần thêm thông tin? Kiểm tra này s $ %1"
+
+#. translators: s: 'doc'
+#: inc/customizer/class/class-shopisle-aboutus-page-instructions.php:20
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:126
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:125
+msgid "doc"
+msgstr "thầy thuốc"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:19
+msgid ""
+"To customize the Contact Page you need to first select the template \"Contact page\" for "
+"the page you want to use for this purpose. Then open that page in the browser and press "
+"\"Customize\" in the top bar."
+msgstr ""
+"Để tuỳ chỉnh trang số liên lạc bạn cần đầu tiên chọn mẫu \"Contact page\" cho trang mà bạn "
+"muốn sử dụng cho mục đích này. Sau đó mở trang đó trong trình duyệt và nhấn \"Customize\" ở "
+"trên thanh trên cùng."
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:86
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:86
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:86
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:47
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:54
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:61
+#: inc/functions/setup.php:345 inc/functions/setup.php:352 inc/functions/setup.php:359
+#: inc/sections/shop_isle_slider_section.php:25 inc/sections/shop_isle_slider_section.php:32
+#: inc/sections/shop_isle_slider_section.php:39
+msgid "Shop Isle"
+msgstr "Tặng Isle"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:88
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:88
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:88
+#: inc/customizer/functions.php:37
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:96
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:96
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:96
+#: inc/customizer/features/customizer-theme-info.php:42 inc/init.php:20
+msgid "Categories Section"
+msgstr "Danh mục phần"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:97
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:97
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:97
+#: inc/customizer/features/customizer-theme-info.php:39
+msgid "Map Section"
+msgstr "Bản đồ phần"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:98
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:98
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:98
+msgid "Ribbon Section"
+msgstr "Ribbon phần"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:99
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:99
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:99
+#: inc/customizer/features/customizer-theme-info.php:40
+msgid "Services Section"
+msgstr "Dịch vụ phần"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:100
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:100
+#: inc/customizer/features/customizer-theme-info.php:38
+msgid "Add New Sections"
+msgstr "Thêm phần mới"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:103
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:103
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:103
+#: inc/customizer/features/customizer-theme-info.php:20
+#: inc/customizer/features/customizer-theme-info.php:50
+#: inc/customizer/features/customizer-theme-info.php:66
+msgid "View PRO version"
+msgstr "Xem phiên bản PRO"
+
+#. translators: 1: The static front page customizer section link
+#. translators: 1: Link to static front page customizer control
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:114
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:114
+msgid ""
+"To customize the Frontpage sections please create a page. After that, go to %1$s and select "
+"\"A static page\". Finally, for \"Front page\" choose the page you previously created."
+msgstr ""
+"Tùy chỉnh Frontpage phần vui lòng tạo một trang. Sau đó, đi đến %1$ s và chọn \"A tĩnh page"
+"\". Cuối cùng, cho \"Front page\" chọn trang mà bạn đã tạo."
+
+#. translators: 1: Link to customizer control 2: 'Need further informations?
+#. Check this'
+#. translators: 1: Link to static front page customizer control 2: 'Static
+#. Front Page'
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:119
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:143
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:117
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:119
+msgid "Static Front Page"
+msgstr "Trang chủ tĩnh"
+
+#. translators: 1: Link to customizer control 2: 'Static front Page'
+#. translators: 1: Link to static front page customizer control
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:139
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-lite-customize-upsell.php:112
+msgid ""
+"To customize the Frontpage sections please go to %1$s and select \"Your Latest Posts\"."
+msgstr "Tùy chỉnh Frontpage phần xin vui lòng đi đến %1$ s và chọn \"Your Latest Posts\"."
+
+#: inc/customizer/customize-pro/lite-pro-upsells/class-shopisle-wporg-customize-upsell.php:100
+msgid "Shortcodes Section"
+msgstr "Mã ngắn phần"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:25
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:132
+msgid "Add new field"
+msgstr "Thêm lĩnh vực mới"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:194
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:200
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:273
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/features/feature-404-controls.php:37
+#: inc/customizer/features/feature-about-us-controls.php:50
+#: inc/customizer/features/feature-about-us-controls.php:158
+#: inc/customizer/features/feature-about-us-controls.php:230
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:57
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:41
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:42
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:206
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+#: inc/customizer/features/feature-about-us-controls.php:64
+#: inc/customizer/features/feature-about-us-controls.php:172
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:69
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:51
+msgid "Subtitle"
+msgstr "Tieu đề phụ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:212
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:292
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:403
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:421
+#: inc/customizer/features/feature-404-controls.php:64
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:93
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:62
+msgid "Button link"
+msgstr "Link nút"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:219
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:298
+msgid "Button Label"
+msgstr "Thẻ nút"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:226
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:304
+#: inc/sections/shop_isle_shortcodes_section.php:22
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:232
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/feature-page-description-meta.php:34
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:319
+msgid "Delete field"
+msgstr "Xóa Trường"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:379
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:349
+msgid "Some icons may not be displayed here. You can see the list of icons %1$s"
+msgstr ""
+"Một số biểu tượng có thể không được hiển thị ở đây. Bạn có thể xem danh sách các biểu tượng "
+"%1$ s"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:350
+msgid "here"
+msgstr "tại đây"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:45
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:368
+msgid "Upload Image"
+msgstr "Đăng tải hình"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Image type"
+msgstr "Loại Hình ảnh"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "None"
+msgstr "Không"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:389
+#: inc/sections/shop_isle_services_section.php:21
+msgid "Social icons"
+msgstr "Mạng xã hội"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:408
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:436
+msgid "Add icon"
+msgstr "Thêm icon?"
+
+#: inc/customizer/customizer.php:30
+msgid "Frontpage sections"
+msgstr "Frontpage phần"
+
+#: inc/customizer/features/customizer-manager-pro.php:23
+msgid "ShopIsle Pro"
+msgstr "ShopIsle Pro"
+
+#: inc/customizer/features/customizer-manager-pro.php:30
+#: inc/customizer/features/customizer-manager-pro.php:67
+msgid "&copy; Themeisle, All rights reserved"
+msgstr "© Themeisle, tất cả các quyền"
+
+#: inc/customizer/features/customizer-theme-info.php:35
+msgid "Enhanced Cart"
+msgstr "Giỏ hàng nâng cao"
+
+#: inc/customizer/features/customizer-theme-info.php:36
+msgid "Get full color schemes support for your site. "
+msgstr "Nhận được đầy đủ màu sắc chương trình hỗ trợ cho trang web của bạn."
+
+#: inc/customizer/features/customizer-theme-info.php:37
+msgid "Section Reordering"
+msgstr "Sắp xếp lại các phần"
+
+#: inc/customizer/features/customizer-theme-info.php:41
+msgid "Quick View functionality"
+msgstr "Nhanh chóng xem chức năng"
+
+#: inc/customizer/features/customizer-theme-info.php:43 inc/customizer/functions.php:38
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/customizer/features/customizer-theme-info.php:62
+msgid "Three New Color Schemes"
+msgstr "Ba lược đồ màu mới"
+
+#: inc/customizer/features/feature-404-controls.php:24
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:74
+msgid "Background image"
+msgstr "Ảnh nền"
+
+#: inc/customizer/features/feature-404-controls.php:45
+msgid "The requested URL was not found on this server.<br> That is all we know."
+msgstr ""
+"Liên kết bạn đã theo dõi có thể đã hết hạn hoặc trang có thể chỉ hiển thị với đối tượng "
+"không bao gồm bạn."
+
+#: inc/customizer/features/feature-404-controls.php:51
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:41
+msgid "Text"
+msgstr "Văn bản"
+
+#: inc/customizer/features/feature-404-controls.php:77
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:81
+msgid "Button label"
+msgstr "Nhãn nút"
+
+#. Template Name of the plugin/theme
+msgid "About us page"
+msgstr "Giới thiệu trang"
+
+#: inc/customizer/features/feature-about-us-controls.php:28
+msgid "Our team"
+msgstr "Đội ngũ giáo viên của chúng tôi"
+
+#: inc/customizer/features/feature-about-us-controls.php:36
+msgid "About us page - our team"
+msgstr "Giới thiệu trang - nhóm của chúng tôi"
+
+#: inc/customizer/features/feature-about-us-controls.php:45 template-about.php:104
+msgid "Meet our team"
+msgstr "Gặp gỡ đội của chúng tôi"
+
+#: inc/customizer/features/feature-about-us-controls.php:59 template-about.php:105
+msgid "An awesome way to introduce the members of your team."
+msgstr "Một cách tuyệt vời để giới thiệu các thành viên trong nhóm của bạn."
+
+#: inc/customizer/features/feature-about-us-controls.php:102
+#: inc/customizer/features/feature-about-us-controls.php:114
+msgid "Add new team member"
+msgstr "Thêm thành viên mới"
+
+#: inc/customizer/features/feature-about-us-controls.php:113
+msgid "Team member"
+msgstr "Thành viên"
+
+#: inc/customizer/features/feature-about-us-controls.php:136
+#: inc/customizer/features/feature-about-us-controls.php:199
+msgid "Video"
+msgstr "Video"
+
+#: inc/customizer/features/feature-about-us-controls.php:144
+msgid "About us page - video"
+msgstr "Giới thiệu trang - video"
+
+#: inc/customizer/features/feature-about-us-controls.php:153 template-about.php:284
+msgid "Presentation"
+msgstr "Trình diễn"
+
+#: inc/customizer/features/feature-about-us-controls.php:167 template-about.php:285
+msgid "What the video about our new products"
+msgstr "Đoạn video về các sản phẩm mới"
+
+#: inc/customizer/features/feature-about-us-controls.php:186
+msgid "Background"
+msgstr "Hình nền"
+
+#: inc/customizer/features/feature-about-us-controls.php:208
+#: inc/customizer/features/feature-about-us-controls.php:225 template-about.php:313
+msgid "Our advantages"
+msgstr "Lợi thế của chúng tôi"
+
+#: inc/customizer/features/feature-about-us-controls.php:216
+msgid "About us page - our advantages"
+msgstr "Giới thiệu trang - lợi thế của chúng tôi"
+
+#: inc/customizer/features/feature-about-us-controls.php:243 inc/functions/setup.php:501
+#: inc/sections/shop_isle_services_section.php:22 template-about.php:325
+msgid "Ideas and concepts"
+msgstr "Những ý tưởng và khái niệm"
+
+#: inc/customizer/features/feature-about-us-controls.php:244
+#: inc/customizer/features/feature-about-us-controls.php:249
+#: inc/customizer/features/feature-about-us-controls.php:254
+#: inc/customizer/features/feature-about-us-controls.php:259 inc/functions/setup.php:502
+#: inc/functions/setup.php:507 inc/functions/setup.php:512 inc/functions/setup.php:517
+#: template-about.php:326 template-about.php:331 template-about.php:336
+#: template-about.php:341
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor ngồi amet, consectetur adipiscing elit."
+
+#: inc/customizer/features/feature-about-us-controls.php:248 inc/functions/setup.php:506
+#: template-about.php:330
+msgid "Designs & interfaces"
+msgstr "Thiết kế & giao diện"
+
+#: inc/customizer/features/feature-about-us-controls.php:253 inc/functions/setup.php:511
+#: inc/sections/shop_isle_services_section.php:33 template-about.php:335
+msgid "Highly customizable"
+msgstr "Tùy biến cao"
+
+#: inc/customizer/features/feature-about-us-controls.php:258 inc/functions/setup.php:516
+#: inc/sections/shop_isle_services_section.php:34 template-about.php:340
+msgid "Easy to use"
+msgstr "Dễ dàng sử dụng."
+
+#: inc/customizer/features/feature-about-us-controls.php:265
+#: inc/customizer/features/feature-about-us-controls.php:277
+msgid "Add new advantage"
+msgstr "Thêm lợi thế mới"
+
+#: inc/customizer/features/feature-about-us-controls.php:276
+msgid "Advantage"
+msgstr "Lợi Thế"
+
+#: inc/customizer/features/feature-advanced-controls.php:17
+msgid "Advanced options"
+msgstr "Nâng Cao"
+
+#: inc/customizer/features/feature-advanced-controls.php:29
+msgid "Disable preloader?"
+msgstr "Vô hiệu hóa preloader?"
+
+#: inc/customizer/features/feature-blog-header-controls.php:21
+msgid "Blog header title"
+msgstr "Blog tiêu đề tiêu đề"
+
+#: inc/customizer/features/feature-blog-header-controls.php:32
+msgid "Blog header subtitle"
+msgstr "Blog tiêu đề phụ đề"
+
+#: inc/customizer/features/feature-colors-palette.php:26
+msgid "Change the color scheme"
+msgstr "Thay đổi lược đồ màu"
+
+#: inc/customizer/features/feature-colors-palette.php:39
+msgid "Navbar Background"
+msgstr "navbar nền"
+
+#: inc/customizer/features/feature-colors-palette.php:50
+msgid "Menu Items"
+msgstr "Danh mục các công cụ"
+
+#: inc/customizer/features/feature-colors-palette.php:61
+msgid "Menu Items on Hover"
+msgstr "Mục trình đơn trên di chuột"
+
+#: inc/customizer/features/feature-colors-palette.php:72
+msgid "Footer Background"
+msgstr "Màu nền chân trang"
+
+#: inc/customizer/features/feature-colors-palette.php:85
+msgid "Padding"
+msgstr "khoảng trắng với chữ"
+
+#. Template Name of the plugin/theme
+msgid "Contact page"
+msgstr "Trang Liên hệ"
+
+#: inc/customizer/features/feature-contact-controls.php:28
+msgid "Contact form shortcode"
+msgstr "Liên hệ với hình thức shortcode"
+
+#. translators: 1: Link to Pirate Forms Plugin.
+#: inc/customizer/features/feature-contact-controls.php:31
+msgid ""
+"Create a form, copy the shortcode generated and paste it here. We recommend %1$s but you "
+"can use any plugin you like."
+msgstr ""
+"Tạo một hình thức, sao shortcode được tạo ra và dán nó ở đây. Chúng tôi khuyên bạn nên %1$ "
+"s nhưng bạn có thể sử dụng bất kỳ plugin bạn thích."
+
+#. translators: 1: 'Simple Contact Form Plugin - PirateForms'
+#: inc/customizer/features/feature-contact-controls.php:48
+#: inc/customizer/features/feature-frontpage-map-section-controls.php:39
+msgid "Map shortcode"
+msgstr "Bản đồ shortcode"
+
+#: inc/customizer/features/feature-contact-controls.php:49
+msgid ""
+"To use this section please install <a href=\"https://wordpress.org/plugins/intergeo-maps/"
+"\">Intergeo Maps</a> plugin then use it to create a map and paste here the shortcode "
+"generated"
+msgstr ""
+"Để sử dụng phần này xin vui lòng cài đặt <a href=\"\"https://wordpress.org/plugins/intergeo-"
+"maps/\"\">Bản đồ Intergeo</a> plugin sau đó sử dụng nó để tạo một bản đồ và dán ở đây "
+"shortcode được tạo ra"
+
+#: inc/customizer/features/feature-footer-controls.php:17
+msgid "Footer"
+msgstr "Chân trang"
+
+#: inc/customizer/features/feature-footer-controls.php:28
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: inc/customizer/features/feature-footer-controls.php:43
+msgid "Hide site info?"
+msgstr "Ẩn thông tin trang web?"
+
+#: inc/customizer/features/feature-footer-controls.php:56
+#: inc/customizer/features/feature-footer-controls.php:68
+msgid "Add new social"
+msgstr "Thêm xã hội mới"
+
+#: inc/customizer/features/feature-footer-controls.php:67
+msgid "Social"
+msgstr "Mạng xã hội"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:17 inc/init.php:19
+msgid "Banners section"
+msgstr "Biểu ngữ phần"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:31
+msgid "Hide banners section?"
+msgstr "Ẩn các biểu ngữ phần?"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:43
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:43
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:56
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:76
+msgid "Section title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:68
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:80
+msgid "Add new banner"
+msgstr "Thêm mới bảng quảng cáo"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:79
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:17
+msgid "Big title section"
+msgstr "Phần lớn tiêu đề"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:32
+msgid "Hide big title section?"
+msgstr "Ẩn phần lớn tiêu đề?"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:65
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:48
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:55
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:62
+#: inc/functions/setup.php:346 inc/functions/setup.php:353 inc/functions/setup.php:360
+#: inc/sections/shop_isle_big_title_section.php:21
+#: inc/sections/shop_isle_slider_section.php:26 inc/sections/shop_isle_slider_section.php:33
+#: inc/sections/shop_isle_slider_section.php:40
+msgid "WooCommerce Theme"
+msgstr "Chủ đề WooCommerce"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:89
+#: inc/sections/shop_isle_big_title_section.php:23
+msgid "#"
+msgstr "#"
+
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:19
+msgid "Categories section"
+msgstr "Danh mục phần"
+
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:31
+msgid "Hide categories section?"
+msgstr "Ẩn danh mục phần?"
+
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:38
+#: inc/sections/shop_isle_fp_categories_section.php:9
+msgid "Popular categories"
+msgstr "Danh mục phổ biến"
+
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:53
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:89
+msgid "Section subtitle"
+msgstr "Phần phụ đề"
+
+#: inc/customizer/features/feature-frontpage-categories-section-controls.php:83
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "Giữ Ctrl hoặc Command để chọn nhiều"
+
+#: inc/customizer/features/feature-frontpage-map-section-controls.php:17
+msgid "Map section"
+msgstr "Bản đồ phần"
+
+#: inc/customizer/features/feature-frontpage-map-section-controls.php:29
+msgid "Hide map section?"
+msgstr "Ẩn bản đồ phần?"
+
+#: inc/customizer/features/feature-frontpage-map-section-controls.php:40
+msgid "To use this section please install "
+msgstr "Để sử dụng phần này xin vui lòng cài đặt"
+
+#: inc/customizer/features/feature-frontpage-map-section-controls.php:40
+msgid " plugin then use it to create a map and paste here the shortcode generated"
+msgstr "plugin sau đó sử dụng nó để tạo một bản đồ và dán ở đây shortcode được tạo ra"
+
+#. translators: 1: Link to WooCommerce Plugin
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:20
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:18
+msgid "To use this section, you are required to first install the  %1$s plugin"
+msgstr "Để sử dụng phần này, bạn được yêu cầu trước tiên cài đặt %1$ s plugin"
+
+#. translators: 1: Link to WiooCommerce Plugin. 2: 'WooCommerce'
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:24
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:23
+#: inc/sections/shop_isle_services_section.php:27
+msgid "WooCommerce"
+msgstr "Bán"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:31
+msgid "Products section"
+msgstr "Mục sản phẩm"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:43
+msgid "Hide products section?"
+msgstr "Mục sản phẩm"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:52
+#: inc/sections/shop_isle_products_section.php:21
+msgid "Latest products"
+msgstr "Sản phẩm mới nhất"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:67
+msgid "WooCommerce shortcode"
+msgstr "WooCommerce shortcode"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:69
+msgid "Insert a WooCommerce shortcode"
+msgstr "Chèn một shortcode WooCommerce"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:75
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:96
+msgid "Select category"
+msgstr "Chọn danh mục"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:99
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:123
+msgid "Products category"
+msgstr "Danh mục sản phẩm"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:100
+msgid ""
+"OR pick a product category. If no shortcode or no category is selected , WooCommerce latest "
+"products are displaying."
+msgstr ""
+"HOẶC chọn một thể loại sản phẩm. Nếu shortcode không có hoặc không có thể loại được chọn, "
+"WooCommerce sản phẩm mới nhất Hiển thị."
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:31
+msgid "Products slider section"
+msgstr "Phần trượt sản phẩm"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:46
+msgid "Hide products slider section on frontpage?"
+msgstr "Ẩn phần trượt sản phẩm trên frontpage?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:62
+msgid "Hide products slider section on single product page?"
+msgstr "Ẩn phần trượt sản phẩm trên trang sản phẩm duy nhất?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:72
+#: inc/sections/shop_isle_products_slider_section.php:21 inc/woocommerce/functions.php:333
+msgid "Exclusive products"
+msgstr "sản phẩm độc quyền"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:85
+#: inc/woocommerce/functions.php:334
+msgid "Special category of products"
+msgstr "Các chuyên mục đặc biệt của sản phẩm"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:127
+msgid ""
+"If no category is selected , WooCommerce products from the first category found are "
+"displaying."
+msgstr ""
+"Nếu không có loại được chọn, WooCommerce các sản phẩm từ các loại đầu tiên được tìm thấy sẽ "
+"hiển thị."
+
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:17
+msgid "Ribbon section"
+msgstr "Ribbon phần"
+
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:29
+msgid "Hide ribbon section?"
+msgstr "Ẩn các ribbon phần?"
+
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:36
+#: inc/sections/shop_isle_ribbon_section.php:13
+msgid "Find out more"
+msgstr "Tìm hiểu thêm"
+
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:47
+#: inc/sections/shop_isle_ribbon_section.php:14
+msgid "Click to subscribe"
+msgstr "Nhấn vào đây để đăng ký"
+
+#: inc/customizer/features/feature-frontpage-ribbon-section-controls.php:52
+msgid "Button Text"
+msgstr "Nội dung nút"
+
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:17
+msgid "Services section"
+msgstr "Dịch vụ phần"
+
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:29
+msgid "Hide services section?"
+msgstr "Ẩn phần dịch vụ?"
+
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:36
+#: inc/sections/shop_isle_services_section.php:13
+#: inc/sections/shop_isle_services_section.php:43
+#: inc/sections/shop_isle_services_section.php:148
+msgid "Our Services"
+msgstr "Dịch vụ của chúng tôi"
+
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:81
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:89
+msgid "Add new service box"
+msgstr "Thêm dịch vụ mới"
+
+#: inc/customizer/features/feature-frontpage-services-section-controls.php:88
+msgid "Service box"
+msgstr "dịch vụ hộp"
+
+#: inc/customizer/features/feature-frontpage-shortcodes-section-controls.php:17
+msgid "Shortcodes section"
+msgstr "Mã ngắn phần"
+
+#: inc/customizer/features/feature-frontpage-shortcodes-section-controls.php:29
+msgid "Hide shortcodes section?"
+msgstr "Ẩn mã ngắn phần?"
+
+#: inc/customizer/features/feature-frontpage-shortcodes-section-controls.php:36
+msgid "Edit the shortcode options"
+msgstr "Chỉnh sửa tùy chọn shortcode"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:20
+msgid "Slider section"
+msgstr "Phần Slider"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:34
+msgid "Hide slider section?"
+msgstr "Ẩn phần trượt?"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:70
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:81
+msgid "Add new slide"
+msgstr "Thêm Slide mới"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:80
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:90
+msgid "Slider shortcode"
+msgstr "Trượt shortcode"
+
+#: inc/customizer/features/feature-frontpage-slider-section-controls.php:91
+msgid ""
+"You can replace the homepage slider with any plugin you like, just copy the shortcode "
+"generated and paste it here."
+msgstr ""
+"Bạn có thể thay thế các thanh trượt của trang chủ với bất kỳ plugin bạn thích, chỉ cần sao "
+"chép shortcode được tạo ra và dán nó ở đây."
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:17
+msgid "Video section"
+msgstr "Phần video"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:30
+msgid "Hide video section?"
+msgstr "Ẩn video phần?"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:53
+msgid "Youtube link"
+msgstr "Đường dẫn youtube"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:64
+msgid "Video thumbnail"
+msgstr "Hình ảnh Video"
+
+#: inc/customizer/features/feature-header-controls.php:17
+msgid "Header"
+msgstr "Đầu trang"
+
+#: inc/customizer/features/feature-header-controls.php:28
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/features/flag-wporg.php:33 inc/functions/setup.php:130
+msgid "Primary Menu"
+msgstr "Menu Chính"
+
+#: inc/feature-page-description-meta.php:20
+msgid "Header description"
+msgstr "Tiêu đề mô tả"
+
+#: inc/frontpage-manager.php:26
+msgid "Keep the old static frontpage template?"
+msgstr "Giữ mẫu tĩnh frontpage cũ?"
+
+#: inc/functions/setup.php:188
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/functions/setup.php:197
+msgid "Footer area 1"
+msgstr "Khu vực footer"
+
+#: inc/functions/setup.php:206
+msgid "Footer area 2"
+msgstr "Khu vực footer"
+
+#: inc/functions/setup.php:215
+msgid "Footer area 3"
+msgstr "Khu vực footer"
+
+#: inc/functions/setup.php:224
+msgid "Footer area 4"
+msgstr "Khu vực footer"
+
+#: inc/functions/setup.php:233
+msgid "Sidebar Shop Page"
+msgstr "Bên cửa hàng trang"
+
+#: inc/init.php:105 inc/structure/header.php:85 inc/woocommerce/template-tags.php:20
+msgid "View your shopping cart"
+msgstr "Xem Giỏ hàng của bạn"
+
+#: inc/sections/shop_isle_products_section.php:146
+#: inc/sections/shop_isle_products_section.php:276
+msgid "Quick View"
+msgstr "Xem nhanh"
+
+#: inc/sections/shop_isle_products_section.php:177
+#: inc/sections/shop_isle_products_section.php:308
+#: inc/sections/shop_isle_products_slider_section.php:139
+#: inc/sections/shop_isle_products_slider_section.php:208 inc/woocommerce/functions.php:658
+msgid "Out of Stock"
+msgstr "Hết hàng"
+
+#: inc/sections/shop_isle_products_section.php:197
+#: inc/sections/shop_isle_products_section.php:199
+#: inc/sections/shop_isle_products_section.php:328
+#: inc/sections/shop_isle_products_section.php:330
+msgid "See all products"
+msgstr "Tất cả mẫu lịch 2017"
+
+#: inc/sections/shop_isle_products_section.php:208
+msgid "No products found."
+msgstr "Không tìm thấy sản phẩm"
+
+#: inc/sections/shop_isle_products_section.php:338
+msgid ""
+"For this section to work, you first need to install the WooCommerce plugin , create some "
+"products, and insert a WooCommerce shortocode or select a product category in Customize -> "
+"Frontpage sections -> Products section"
+msgstr ""
+"Cho phần này để làm việc, trước tiên bạn cần cài đặt WooCommerce plugin, tạo ra một số sản "
+"phẩm, và chèn một shortocode WooCommerce hay chọn một thể loại sản phẩm trong tuỳ-> "
+"Frontpage phần-> phần sản phẩm"
+
+#: inc/sections/shop_isle_products_slider_section.php:23
+msgid ""
+"For this section to work, you first need to install the WooCommerce plugin , create some "
+"products, and select a product category in Customize -> Frontpage sections -> Products "
+"slider section"
+msgstr ""
+"Cho phần này để làm việc, trước tiên bạn cần cài đặt WooCommerce plugin, tạo ra một số sản "
+"phẩm và chọn dòng sản phẩm Customize-> Frontpage phần-> phần trượt sản phẩm"
+
+#: inc/sections/shop_isle_services_section.php:28 inc/structure/template-tags.php:128
+msgid "Top Rated Products"
+msgstr "Sản phẩm được ưa chuộng"
+
+#. translators: s: Comment author link
+#: inc/structure/comments.php:44
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/structure/comments.php:47
+msgid "Your comment is awaiting moderation."
+msgstr "Nhận xét của bạn đang được duyệt"
+
+#: inc/structure/comments.php:68
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: inc/structure/footer.php:94
+msgid "powered by"
+msgstr "phát triển bởi"
+
+#: inc/structure/header.php:50
+msgid "Toggle navigation"
+msgstr "Chuyển đổi điều hướng"
+
+#: inc/structure/page.php:21 inc/structure/post.php:46
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: s: post title
+#: inc/structure/post.php:40
+msgid "Continue reading %s"
+msgstr "Xem tiếp %s"
+
+#: inc/structure/post.php:53
+msgid ", "
+msgstr ","
+
+#. translators: s: post title
+#: inc/structure/post.php:57
+msgid "Tagged %1$s"
+msgstr "Gắn thẻ %1$s"
+
+#: inc/structure/post.php:90
+msgid "Posts navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/structure/post.php:93
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Bài đăng cũ hơn"
+
+#: inc/structure/post.php:96
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bài đăng mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/structure/post.php:125
+msgid "By "
+msgstr "Bởi"
+
+#: inc/structure/post.php:144
+msgid "No Comments"
+msgstr "&laquo;  Bình luận cũ hơn"
+
+#: inc/structure/post.php:146
+msgid " Comments"
+msgstr "Bình luận"
+
+#: inc/structure/post.php:148
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#. translators: s: category name
+#: inc/structure/post.php:161
+msgid "View all posts in %s"
+msgstr "Xem tất cả các bài đăng trong %s"
+
+#: inc/structure/template-tags.php:27
+msgid "Product Categories"
+msgstr "Các bộ sưu tập"
+
+#: inc/structure/template-tags.php:60
+msgid "Recent Products"
+msgstr "Sản phẩm mới"
+
+#: inc/structure/template-tags.php:95
+msgid "Featured Products"
+msgstr "Sản phẩm nổi bật"
+
+#: inc/structure/template-tags.php:161
+msgid "On Sale"
+msgstr "Đang bán"
+
+#. translators: d: number of items.
+#: inc/woocommerce/template-tags.php:27
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+#. translators: s: Search term.
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm: %s"
+
+#. Theme Name of the plugin/theme
+msgid "ShopIsle PRO"
+msgstr "ShopIsle PRO"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/shop-isle-pro/"
+msgstr "http://themeisle.com/Themes/Shop-Isle-Pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"ShopIsle is the perfect free theme designed for your WooCommerce shop based on bootstrap. "
+"Due to its flexibility ShopIsle can also be used for a one page business site, it has a "
+"fullscreen image, parallax effect, it provides a responsive blog section, is eCommerce "
+"ready, WPML, Photo Gallery Grid,Contact Form 7,Meta Slider, SiteOrigin Page Builder, "
+"JetPack compatible and SEO friendly. It features a simple, minimal and elegant style which "
+"will work perfectly for a clothing, electronics and almost any kind of store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Template Name of the plugin/theme
+msgid "Blog template"
+msgstr "Mẫu blog"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Frontpage"
+
+#. Template Name of the plugin/theme
+msgid "Full width, no title (SiteOrigin Page builder Template)"
+msgstr "Chiều rộng đầy đủ, không có tiêu đề (SiteOrigin Page builder mẫu)"
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr "Toàn trang"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không."
+
+#. translators: 1: number of comments 2: post name
+#: comments.php:29
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+
+#: inc/structure/header.php:76
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Tìm kiếm Sản phẩm &hellip;"
+
+#: inc/structure/header.php:76
+msgctxt "label"
+msgid "Search for:"
+msgstr "Tìm kiếm: [ label ]"
+
+#: inc/structure/header.php:77
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
