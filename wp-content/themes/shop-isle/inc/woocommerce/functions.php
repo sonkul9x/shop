@@ -330,7 +330,7 @@ function shop_isle_products_slider_on_single_page() {
 
 			echo '<div class="container">';
 
-				$shop_isle_products_slider_title = get_theme_mod( 'shop_isle_products_slider_title',__( 'Sản phẩm cùng danh mục', 'shop-isle' ) );
+				$shop_isle_products_slider_title = get_theme_mod( 'shop_isle_products_slider_title',__( 'Sản phẩm nổi bật', 'shop-isle' ) );
 				$shop_isle_products_slider_subtitle = get_theme_mod( 'shop_isle_products_slider_subtitle',__( 'Sản phẩm cùng danh mục nổi bật', 'shop-isle' ) );
 
 		if ( ! empty( $shop_isle_products_slider_title ) || ! empty( $shop_isle_products_slider_subtitle ) ) :
